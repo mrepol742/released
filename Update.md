@@ -3,9 +3,10 @@ Webvium v2.7 Update in order
 # What's new?
 Bug fixes and improvements.
 
-AdBlocker
+### AdBlocker
 Stay safe while surfing the Internet. Webvium AdBlocker will take care of blocking ads, analytics and error monitoring.
-Webvium VPN
+
+### Webvium VPN
 Anonymous, Secured, Private and the fastest Virtual Private Network.
 
 # New App Description
