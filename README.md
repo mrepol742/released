@@ -14,7 +14,7 @@
 
 **Webvium Dev**
 >Download: https://github.com/mrepol742/released/tree/dev <br>
-The dev released is automatic and will be updated after a push. <br>
+Automatically generated branch. DO NOT PULL REQUEST OR MERGE <br>
 For more info see https://mrepol742.hashnode.dev/webviumdev
 
 <br>
