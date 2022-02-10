@@ -1,9 +1,6 @@
 ~~~
 
 Automatically generated branch. DO NOT PULL REQUEST OR MERGE
-~~~
-<br>
-~~~
 
  _       __     __         _                    ____ 
 | |     / /__  / /_ _   __(_)_  ______ ___     / __  / ___ _ __ 
