@@ -17,19 +17,18 @@
 
 <br>
 
-# Dev Released
+# Dev Released ( DO NOT PULL REQUEST OR MERGE ) Automatically generated branch. 
 
 **Webvium Dev**
 >Download: [https://mrepol742.github.io/webviumdev](https://mrepol742.github.io/webviumdev?ref=github.com) <br>
-Automatically generated branch. DO NOT PULL REQUEST OR MERGE <br>
-For more info see [https://mrepol742.hashnode.dev/webviumdev](https://mrepol742.hashnode.dev/webviumdev?ref=github.com)
+>Privacy Policy: [https://mrepol742.github.io/webvium/privacypolicy](https://mrepol742.github.io/webvium/privacypolicy?ref=github.com)
 
 **Webvium VPN Dev**
->Download: comming soon
+>Download: comming soon <br>
 >Privacy Policy: [https://mrepol742.github.io/webviumvpn/privacypolicy](https://mrepol742.github.io/webviumvpn/privacypolicy?ref=github.com)
 
 **Mrepol742 Dev**
->Download: comming soon
+>Download: comming soon <br>
 >Privacy Policy: [https://mrepol742.github.io/privacypolicy](https://mrepol742.github.io/privacypolicy?ref=github.com)
 
 <br>
