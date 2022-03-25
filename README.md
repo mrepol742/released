@@ -4,9 +4,6 @@
 >Download: [https://mrepol742.github.io/webvium](https://mrepol742.github.io/webvium?ref=github.com) <br>
 >Privacy Policy: [https://mrepol742.github.io/webvium/privacypolicy](https://mrepol742.github.io/webvium/privacypolicy?ref=github.com)
 
-**Raid Shooter**
->Download: [https://mrepol742.github.io/raidshooter](https://mrepol742.github.io/raidshooter?ref=github.com)
-
 **Webvium VPN**
 >Download: [https://mrepol742.github.io/webviumvpn](https://mrepol742.github.io/webviumvpn?ref=github.com) <br>
 >Privacy Policy: [https://mrepol742.github.io/webviumvpn/privacypolicy](https://mrepol742.github.io/webviumvpn/privacypolicy?ref=github.com)
@@ -17,7 +14,7 @@
 
 <br>
 
-# Dev Released ( DO NOT PULL REQUEST OR MERGE ) Automatically generated branch. 
+# Dev Released
 
 **Webvium Dev**
 >Download: [https://mrepol742.github.io/webviumdev](https://mrepol742.github.io/webviumdev?ref=github.com) <br>
