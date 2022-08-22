@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.mrepol742.webvium.beta",
+  "variantName": "beta",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 20220822,
+      "versionName": "2.8-beta",
+      "outputFile": "Webvium-beta.apk"
+    }
+  ],
+  "elementType": "File"
+}
