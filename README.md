@@ -20,13 +20,11 @@
 >Download: [https://mrepol742.github.io/webviumdev](https://mrepol742.github.io/webviumdev?ref=github.com) <br>
 >Privacy Policy: [https://mrepol742.github.io/webvium/privacypolicy](https://mrepol742.github.io/webvium/privacypolicy?ref=github.com)
 
-**Webvium VPN Dev**
->Download: comming soon <br>
->Privacy Policy: [https://mrepol742.github.io/webviumvpn/privacypolicy](https://mrepol742.github.io/webviumvpn/privacypolicy?ref=github.com)
+# Beta Released
 
-**Mrepol742 Dev**
->Download: comming soon <br>
->Privacy Policy: [https://mrepol742.github.io/privacypolicy](https://mrepol742.github.io/privacypolicy?ref=github.com)
+**Webvium Beta**
+>Download: [https://mrepol742.github.io/webviumbeta](https://mrepol742.github.io/webviumbeta?ref=github.com) <br>
+>Privacy Policy: [https://mrepol742.github.io/webvium/privacypolicy](https://mrepol742.github.io/webvium/privacypolicy?ref=github.com)
 
 <br>
 
