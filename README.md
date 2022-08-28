@@ -1,34 +1,17 @@
-## Stable Released
+# released
+APK Releases for Webvium, Webvium Dev, Webvium VPN and Webvium Beta.
 
-**Webvium**
->Download: [https://mrepol742.github.io/webvium](https://mrepol742.github.io/webvium?ref=github.com) <br>
->Privacy Policy: [https://mrepol742.github.io/webvium/privacypolicy](https://mrepol742.github.io/webvium/privacypolicy?ref=github.com)
+<a href="https://mrepol742.github.io/webvium/team/">
+<img src="https://github.com/mrepol742/released/blob/stable/android.gif?raw=true" alt="android" />
+  </a>
+  
+## The Project Webvium
+The Project Webvium is no longer open source though the project is still ongoing and releases new updates regularly you can check the Project Webvium at https://mrepol742.github.io/webvium/
 
-**Webvium VPN**
->Download: [https://mrepol742.github.io/webviumvpn](https://mrepol742.github.io/webviumvpn?ref=github.com) <br>
->Privacy Policy: [https://mrepol742.github.io/webviumvpn/privacypolicy](https://mrepol742.github.io/webviumvpn/privacypolicy?ref=github.com)
+**Webvium** <br>
+Stable: https://mrepol742.github.io/webvium/ <br>
+Beta: https://mrepol742.github.io/webviumbeta/ <br>
+Dev: https://mrepol742.github.io/webviumdev/
 
-**Mrepol742**
->Download: comming soon
->Privacy Policy: [https://mrepol742.github.io/privacypolicy](https://mrepol742.github.io/privacypolicy?ref=github.com)
-
-<br>
-
-## Dev Released
-
-**Webvium Dev**
->Download: [https://mrepol742.github.io/webviumdev](https://mrepol742.github.io/webviumdev?ref=github.com) <br>
->Privacy Policy: [https://mrepol742.github.io/webvium/privacypolicy](https://mrepol742.github.io/webvium/privacypolicy?ref=github.com)
-
-## Beta Released
-
-**Webvium Beta**
->Download: [https://mrepol742.github.io/webviumbeta](https://mrepol742.github.io/webviumbeta?ref=github.com) <br>
->Privacy Policy: [https://mrepol742.github.io/webvium/privacypolicy](https://mrepol742.github.io/webvium/privacypolicy?ref=github.com)
-
-<br>
-
-## Created with 💝 by
-
->[Melvin Jones Repol](https://mrepol742.github.io?ref=github.com) <br>
->[Samiun Nafis](https://samiunnafis.github.io?ref=github.com)
+**Webvium VPN** <br>
+https://mrepol742.github.io/webviumvpn.
