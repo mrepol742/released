@@ -1,4 +1,5 @@
 let applicationId = "com.mrepol742.webvium.beta";
 let versionName = 28;
-let versionCode = 22100303;
+let versionFullName = "v2.8";
+let versionCode = 22100304;
 let latestRelease = October 03, 2022
