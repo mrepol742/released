@@ -1,5 +1,5 @@
 let applicationId = "com.mrepol742.webvium.dev";
-let versionName = 28;
-let versionFullName = "v2.8";
-let versionCode = 22102802;
+let versionName = 29;
+let versionFullName = "v2.9";
+let versionCode = 22102803;
 let latestRelease = "October 28, 2022"
