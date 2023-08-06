@@ -1,1 +1,10 @@
-[[headers]]for = "/*"  [headers.values]  Access-Control-Allow-Origin = "*"
+[[redirects]]
+  from = "/"
+  to = "https://mrepol742.github.io/webvium"
+  status = 301
+  force = false
+
+[[headers]]
+for = "/*"
+  [headers.values
+]  Access-Control-Allow-Origin = "*"
