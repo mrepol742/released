@@ -5,15 +5,15 @@
     "kind": "Directory"
   },
   "applicationId": "com.mrepol742.webvium.dev",
-  "variantName": "special",
+  "variantName": "dev",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 24021319,
+      "versionCode": 24021511,
       "versionName": "2.9-dev",
-      "outputFile": "Webvium v2.9-dev.apk"
+      "outputFile": "Webvium-dev.apk"
     }
   ],
   "elementType": "File"
