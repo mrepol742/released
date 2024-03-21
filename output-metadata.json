@@ -11,10 +11,11 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 24031806,
+      "versionCode": 24032110,
       "versionName": "2.9-beta",
       "outputFile": "Webvium-beta.apk"
     }
   ],
-  "elementType": "File"
+  "elementType": "File",
+  "minSdkVersionForDexing": 21
 }
